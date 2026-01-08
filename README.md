@@ -4,6 +4,6 @@ Bu faylda frontend va backend ikkalasini ham ulagan holda yoziladi !!!
 
 Frontend React da Backend esa Node.JS, Express.JS da boladi !!!
 
-MongoDb bilan ishlanga Postman da tekshirib olingan !!!
+
 
 
