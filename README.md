@@ -10,7 +10,6 @@
 
 ## 🔥 Overview
 
-
 This is a **Full-Stack MERN application** built with:
 
 - **Frontend:** React.js  
