@@ -22,7 +22,6 @@ The project demonstrates **CRUD operations**, RESTful APIs, and a clean **fronte
 
 ## 🧱 Project Structure
 
-```bash
 fullstack-project/
 │
 ├── backend/
