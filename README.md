@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Project:
+# 🚀 Full-Stack Loyiha: MERN Stack Ilova
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -8,31 +8,31 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+## 🔥 Loyiha haqida
 
-## 🔥 Overview
+Bu loyiha **Full-Stack MERN ilova** bo‘lib, quyidagi texnologiyalar asosida yaratilgan:
 
-This is a **Full-Stack MERN application** built with:
+* **Frontend:** React.js
+* **Backend:** Node.js + Express.js
+* **Ma’lumotlar bazasi:** MongoDB
+* **API tekshirish:** Postman
 
-- **Frontend:** React.js  
-- **Backend:** Node.js + Express.js  
-- **Database:** MongoDB  
-- **API Testing:** Postman  
+Loyihada **CRUD amallari**, **REST API** va **frontend–backend integratsiyasi** ishlatilgan. Zamonaviy full-stack dasturlashni ko‘rsatish uchun juda mos.
 
-The project demonstrates **CRUD operations**, RESTful APIs, and a clean **frontend-backend integration**. Perfect for showcasing a **modern full-stack development workflow**.
-## 🧱 Project Structure
+## 🧱 Loyiha strukturasi
 
 ```bash
 fullstack-project/
 │
 ├── backend/
-│   ├── models/          # MongoDB models
-│   ├── index.js         # Express server entry
+│   ├── models/          # MongoDB modellari
+│   ├── index.js         # Express server boshlanish fayli
 │   ├── package.json
 │   └── node_modules/
 │
 ├── frontend/
 │   ├── public/
-│   ├── src/             # React source code
+│   ├── src/             # React manba kodlari
 │   ├── package.json
 │   └── node_modules/
 │
