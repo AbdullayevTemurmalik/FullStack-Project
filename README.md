@@ -10,7 +10,7 @@
 
 ## 🔥 Loyiha haqida
 
-Bu loyiha **Full-Stack MERN ilova** bo‘lib, quyidagi texnologiyalar asosida yaratilgan:
+Bu loyiha **Full-Stack** bo‘lib, quyidagi texnologiyalar asosida yaratilgan:
 
 * **Frontend:** React.js
 * **Backend:** Node.js + Express.js
