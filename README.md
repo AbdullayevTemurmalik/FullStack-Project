@@ -19,9 +19,9 @@ This is a **Full-Stack MERN application** built with:
 - **API Testing:** Postman  
 
 The project demonstrates **CRUD operations**, RESTful APIs, and a clean **frontend-backend integration**. Perfect for showcasing a **modern full-stack development workflow**.
-
 ## 🧱 Project Structure
 
+```bash
 fullstack-project/
 │
 ├── backend/
