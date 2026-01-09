@@ -20,3 +20,23 @@ This is a **Full-Stack MERN application** built with:
 
 The project demonstrates **CRUD operations**, RESTful APIs, and a clean **frontend-backend integration**. Perfect for showcasing a **modern full-stack development workflow**.
 
+## 🧱 Project Structure
+
+```bash
+fullstack-project/
+│
+├── backend/
+│   ├── models/          # MongoDB models
+│   ├── index.js         # Express server entry
+│   ├── package.json
+│   └── node_modules/
+│
+├── frontend/
+│   ├── public/
+│   ├── src/             # React source code
+│   ├── package.json
+│   └── node_modules/
+│
+├── package.json
+└── README.md
+```
