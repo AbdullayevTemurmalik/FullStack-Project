@@ -31,7 +31,7 @@ fullstack-project/
 │   └── node_modules/
 │
 ├── frontend/
-│   ├── public/
+│   ├── publ
 │   ├── src/             # React manba kodlari
 │   ├── package.json
 │   └── node_modules/
