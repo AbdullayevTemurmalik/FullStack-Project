@@ -36,6 +36,6 @@ fullstack-project/
 │   ├── package.json
 │   └── node_modules/
 │
-├── package.json
+├── package.js
 └── README.md
 
