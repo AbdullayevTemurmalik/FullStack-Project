@@ -22,19 +22,4 @@ Loyihada **CRUD amallari**, **REST API** va **frontend–backend integratsiyasi*
 ## 🧱 Loyiha strukturasi
 
 ```bash
-fullstack-project/
-│
-├── backend/
-│   ├── models/          # MongoDB modellari
-│   ├── index.js         # Express server boshlanish fayli
-│   ├── package.json
-│   └── node_modules
-├── frontend/
-│   ├── publ
-│   ├── src/             # React manba kodlari
-│   ├── package.j
-│   └── node_modules/
-│
-├── pac
-└── README.md
 
