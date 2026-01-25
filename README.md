@@ -28,8 +28,7 @@ fullstack-project/
 │   ├── models/          # MongoDB modellari
 │   ├── index.js         # Express server boshlanish fayli
 │   ├── package.json
-│   └── node_modules/
-│
+│   └── node_modules
 ├── frontend/
 │   ├── publ
 │   ├── src/             # React manba kodlari
