@@ -32,7 +32,7 @@ fullstack-project/
 ├── frontend/
 │   ├── publ
 │   ├── src/             # React manba kodlari
-│   ├── package.json
+│   ├── package.j
 │   └── node_modules/
 │
 ├── package.js
