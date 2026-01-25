@@ -18,4 +18,3 @@ Bu loyiha **Full-Stack** bo‘lib, quyidagi texnologiyalar asosida yaratilgan:
 * **API tekshirish:** Postman
 
 Loyihada **CRUD amallari**, **REST API** va **frontend–backend integratsiyasi** ishlatilgan. Zamonaviy full-stack dasturlashni ko‘rsatish uchun juda mos.
-
