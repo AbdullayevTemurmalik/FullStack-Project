@@ -21,5 +21,5 @@ Loyihada **CRUD amallari**, **REST API** va **frontend–backend integratsiyasi*
 
 ## 🧱 Loyiha strukturasi
 
-```bash
+
 
