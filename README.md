@@ -17,4 +17,4 @@ Bu loyiha **Full-Stack** bo‘lib, quyidagi texnologiyalar asosida yaratilgan:
 * **Ma’lumotlar bazasi:** MongoDB
 * **API tekshirish:** Postman
 
-Loyihada **CRUD amallari**, **REST API** va **frontend–backend integratsiyasi** ishlatilgan. Zamonaviy full-stack dasturlashni ko‘rsatish uchun juda mos
+Loyihada **CRUD amallari**, **REST API** va **frontend–backend integratsiyasi** ishlatilgan. Zamonaviy full-stack dasturlashni ko‘rsatish uchun juda mos.
