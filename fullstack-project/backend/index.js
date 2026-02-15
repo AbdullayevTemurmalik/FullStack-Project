@@ -15,6 +15,15 @@ mongoose
 
 app.get("/", (req, res) => res.send("Server ishlamoqda!"));
 
+app.get("/users", async (req, res) => {
+  try {
+    const users = await User.find();
+    res.json(users);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 app.post("/register", async (req, res) => {
   try {
     const { name, email, password } = req.body;
@@ -30,5 +39,5 @@ app.post("/register", async (req, res) => {
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () =>
-  console.log(`🚀 Server http://localhost:${PORT} portida ishga tushdi`)
+  console.log(`🚀 Server http://localhost:${PORT} portida ishga tushdi`),
 );
